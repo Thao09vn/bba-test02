@@ -16,6 +16,7 @@ Chạy lệnh sau tại thư mục dự án của bạn: npm init playwright@lat
   cd tên_folder
 * **Quay lại thư mục cha (thư mục ban đầu):**
   cd ..
+* **Đưa fie lên Github:**git push -u origin main
 ### 3. Đưa file vào vùng Staging
 * **Lệnh thực hiện:**
   git add tên_file
