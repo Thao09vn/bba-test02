@@ -9,7 +9,7 @@
 // In ra ngoài console trạng thái tương ứng. 
 // Commit kết quả với message: “feat: add solution for challenge 03”
 
-let devilFruit = "xxx";
+let devilFruit = "gomu-gomu";
 if (devilFruit === "gomu-gomu") {
     console.log("Gear 5 Unlocked!");
 } else if (devilFruit === "mera-mera") {
