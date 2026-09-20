@@ -18,10 +18,10 @@ function upgradeCrew() {
             bounty: pirate.bounty * 2,
             strength: pirate.strength * 1.5
         };
-          console.log(awakenedPirates);
+        console.log(awakenedPirates);
     });
-    const monsterTrioCandidates= pirates.filter(s=>s.strength>500);
-      console.log(monsterTrioCandidates);
+    const monsterTrioCandidates = pirates.filter(s => s.strength > 500);
+    console.log(monsterTrioCandidates);
 }
 upgradeCrew();
 
